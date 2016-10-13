@@ -1,0 +1,6 @@
+Map:
+- use "tgt" column as key (str)
+- use "weight" column as value (int)
+
+Reduce:
+sum of values for each key
